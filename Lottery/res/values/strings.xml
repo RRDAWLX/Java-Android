@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="redBall">红球区：</string>
+    <string name="blueBall">蓝球区：</string>
+    <string name="app_name">好运，特等奖！</string>
+    <string name="luck">特等奖</string>
+
+</resources>
